@@ -1,0 +1,4 @@
+---
+title: AstronomicalObject
+hidden: false
+---

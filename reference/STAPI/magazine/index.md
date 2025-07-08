@@ -1,0 +1,4 @@
+---
+title: Magazine
+hidden: false
+---

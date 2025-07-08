@@ -1,0 +1,4 @@
+---
+title: ComicSeries
+hidden: false
+---

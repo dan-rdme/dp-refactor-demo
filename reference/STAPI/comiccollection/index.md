@@ -1,0 +1,4 @@
+---
+title: ComicCollection
+hidden: false
+---

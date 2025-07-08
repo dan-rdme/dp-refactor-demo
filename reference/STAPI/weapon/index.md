@@ -1,0 +1,4 @@
+---
+title: Weapon
+hidden: false
+---

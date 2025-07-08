@@ -1,0 +1,4 @@
+---
+title: MagazineSeries
+hidden: false
+---

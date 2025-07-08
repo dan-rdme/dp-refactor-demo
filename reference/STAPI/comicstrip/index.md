@@ -1,0 +1,4 @@
+---
+title: ComicStrip
+hidden: false
+---
