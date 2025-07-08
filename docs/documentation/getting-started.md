@@ -51,4 +51,4 @@ If you get stuck or have a special order, our support team is always here to hel
 
 We're excited to see what you cook up! 💙
 
-![Bob's Burgers](https://media.giphy.com/media/l41lI4bYmcsh322vS/giphy.gif)
+![Bob's Burgers](https://media.giphy.com/media/l0HlKF0m0n2hk132g/giphy.gif)
