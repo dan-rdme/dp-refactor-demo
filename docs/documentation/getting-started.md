@@ -4,36 +4,51 @@ excerpt: >-
   This page will help you get started with DP Demo. You'll be up and running in
   a jiffy!
 hidden: false
+link:
+  new_tab: false
 ---
-Welcome to ReadMe! :owlbert:
+Welcome to Bob's Burgers AI! 🍔
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
+We're serving up sizzling hot AI solutions to help you build the next generation of applications. Our state-of-the-art models are trained by the best grill masters in the business to ensure gourmet quality and speedy service.
 
-# 📝 Customize your docs
+# Our Menu of AI Products
 
-What you're looking at right now is what we call our **Guides**. It's a free-form place to write to your heart's content! And the best part is... you aren't alone! Your users can contribute (with your approval, don't worry!) using the **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** feature on every page. It's like GitHub Pull Requests, but for text!
+<Cards>
+  <Card title="The Patty Flipper Vision API" icon="camera-rotate">
+    Perfect for image recognition, object detection, and content moderation. It's the extra set of eyes you need.
+  </Card>
+  <Card title="The Special Sauce NLP Model" icon="wand-magic-sparkles">
+    Our secret recipe for understanding and generating human-like text. Perfect for chatbots, content creation, and sentiment analysis.
+  </Card>
+  <Card title="The Grill Master Recommender" icon="thumbs-up">
+    Serve up personalized recommendations to your users with our powerful recommendation engine. It's the perfect way to keep them coming back for more.
+  </Card>
+</Cards>
 
-Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
+# 📝 Getting Started
 
-# 🚦 Interactive API Docs
+Ready to place your order? Getting started with Bob's Burgers AI is as easy as 1-2-3.
 
-If you don't have an API, then no worries! ReadMe is great for any sort of documentation. But if you have an API, there are a few features to make your experience with ReadMe (and your users' experience with your developer hub!) a magical one:
+1.  **Get your API Key**: First, you'll need to sign up for a free account to get your API key. This key will authenticate your requests to our kitchen.
+2.  **Install the SDK**: We offer SDKs in various languages to make integration a breeze. Here's how you'd do it in Python:
+```python
+pip install bobs-burgers-ai
+```
+3.  **Make your first call**: Now you're ready to cook! Here's a quick example of how to use our Patty Flipper API to analyze an image:
+```python
+import bobs_burgers_ai as bbai
 
-* **Upload your OpenAPI file:** First step is to describe your API to us! If you already have an OpenAPI file, there's lots of ways to upload it in the *API Reference* section. Our favorite is the GitHub Action, but you can use our CLI or you can upload it directly to the UI!
-* **Add API Keys:** Don't make your users hunt around for API keys. You can surface their API key [right in the docs](https://docs.readme.com/main/docs/personalized-docs), so they can play around with your API right inside ReadMe.
-* **Add Logs:** The coolest thing about ReadMe is you can add [real-time API Logs](https://docs.readme.com/main/docs/developer-dashboard) right to your docs, so you and your users can both see what's going on with their API. Trust us, it's magical!
+bbai.api_key = "YOUR_API_KEY"
 
-# 📈 Know your users
+analysis = bbai.patty_flipper.analyze(image_url="http://example.com/burger.jpg")
 
-One of the best ways to know if you're nailing the dev experience is checking out how your users are interacting with both your docs and API.
-
-* **Documentation Metrics** let you see who's using your docs, what your best and worst pages are, what people are searching for and more!
-* **API Metrics** are a bit harder to set up (I promise we do our best to make it painless!), but once you set this up you'll know *everything* that's going on with your users!
+print(analysis)
+```
 
 # 💬 We're here to help!
 
-ReadMe has a *ton* of ways to make your docs the envy of any <Glossary>parliament</Glossary> (like that mouseover!). If you get stuck, [shoot us an email](mailto:support@readme.io) or use the Intercom widget on the bottom right of any page.
+If you get stuck or have a special order, our support team is always here to help. Check out our full **API Reference** for all the details, or [contact us](mailto:support@bobsburgers.ai) directly.
 
-We're excited you're here! :blue_heart:
+We're excited to see what you cook up! 💙
 
 ![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
