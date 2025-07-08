@@ -1,5 +1,5 @@
 ---
-title: Bob's Burger AI
+title: Pawsitively Perfect Grooming API
 excerpt: >-
   This page will help you get started with DP Demo. You'll be up and running in
   a jiffy!
