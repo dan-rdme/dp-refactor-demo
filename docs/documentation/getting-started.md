@@ -7,11 +7,6 @@ hidden: false
 ---
 Welcome to ReadMe! :owlbert:
 
-DP Demo - July 8\
-July 8 pt 2
-
-<br />
-
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
 # 📝 Customize your docs
