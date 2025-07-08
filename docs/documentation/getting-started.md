@@ -1,5 +1,5 @@
 ---
-title: Getting Started with DP Demo
+title: Bob's Burger AI
 excerpt: >-
   This page will help you get started with DP Demo. You'll be up and running in
   a jiffy!
