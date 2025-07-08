@@ -1,8 +1,8 @@
 ---
 title: Pawsitively Perfect Grooming API
 excerpt: >-
-  This page will help you get started with DP Demo. You'll be up and running in
-  a jiffy!
+  The ulti-mutt solution for managing your dog grooming business. Get started in
+  a tail wag!
 hidden: false
 link:
   new_tab: false
