@@ -1,8 +1,6 @@
 ---
 title: Pawsitively Perfect ペットグルーミング API
-excerpt: >-
-  The ulti-mutt solution for managing your dog grooming business. Get started in
-  a tail wag!
+excerpt: ペットグルーミングビジネスを管理するための究極のソリューション。すぐに始められます！
 hidden: false
 link:
   new_tab: false
