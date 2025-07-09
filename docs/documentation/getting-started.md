@@ -13,29 +13,9 @@ Our comprehensive API suite helps you manage every aspect of your dog grooming b
 
 <br />
 
-Dan made this update - 735 on July 9
-
 <br />
 
 <br />
-
-\<ul>\
-\<li>1
-\<li>2
-\<li>3
-\</ul>
-
-<br />
-
-<br />
-
-<br />
-
-<ul>
-  <li>1</li>
-  <li>2</li>
-  <li>3</li>
-</ul>
 
 <br />
 
