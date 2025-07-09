@@ -1,5 +1,5 @@
 ---
-title: API Pawsitively Perfect Toilettage
+title: Pawsitively Perfect ペットグルーミング API
 excerpt: >-
   The ulti-mutt solution for managing your dog grooming business. Get started in
   a tail wag!
