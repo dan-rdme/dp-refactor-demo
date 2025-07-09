@@ -6,3 +6,4 @@ api:
   operationId: get_animal
 hidden: false
 ---
+Rabo - Test
