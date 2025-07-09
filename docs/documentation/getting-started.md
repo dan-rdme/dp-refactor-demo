@@ -7,39 +7,39 @@ hidden: false
 link:
   new_tab: false
 ---
-Bienvenue à l'API Pawsitively Perfect Grooming! 🐕
+Pawsitively Perfect グルーミング API へようこそ！🐕
 
-Notre suite complète d'API vous aide à gérer tous les aspects de votre entreprise de toilettage canin, de la planification des rendez-vous à la gestion des clients. Conçues par des toiletteurs pour des toiletteurs, nos API sont aussi conviviales et fiables que vos clients à fourrure préférés.
+私たちの包括的な API スイートは、予約のスケジューリングから顧客管理まで、ペットグルーミングビジネスのあらゆる側面の管理をサポートします。グルーマーによってグルーマーのために設計され、私たちの API は、お気に入りの毛皮のお客様と同じくらいフレンドリーで信頼性があります。
 
-# Notre Suite de Services API
+# 私たちの API サービススイート
 
 <Cards>
-  <Card title="API de Planification des Rendez-vous" icon="calendar-check">
-    Gérez les réservations, traitez les annulations et envoyez des rappels automatisés pour que votre planning reste fluide.
+  <Card title="予約スケジューリング API" icon="calendar-check">
+    予約の管理、キャンセル処理、自動リマインダーの送信で、スケジュールをスムーズに保ちます。
   </Card>
 
-  <Card title="API des Profils Clients et Animaux" icon="paw">
-    Stockez des profils détaillés des animaux, y compris les informations sur la race, les préférences de toilettage et les considérations médicales. Suivez l'historique et les préférences des clients.
+  <Card title="顧客・ペットプロフィール API" icon="paw">
+    犬種情報、グルーミング設定、医療上の考慮事項を含む詳細なペットプロフィールを保存。顧客の履歴と設定を追跡します。
   </Card>
 
-  <Card title="API des Services de Toilettage" icon="scissors">
-    Configurez vos offres de services, tarifs et forfaits spéciaux. Parfait pour gérer différentes races et types de pelage.
+  <Card title="グルーミングサービス API" icon="scissors">
+    サービス内容、料金、特別パッケージを設定。様々な犬種や毛質に対応できます。
   </Card>
 </Cards>
 
-# 📝 Pour Commencer
+# 📝 はじめ方
 
-Démarrer avec notre API est aussi simple que d'apprendre à un chien à s'asseoir! Voici comment:
+私たちの API の使用開始は、犬にお座りを教えるくらい簡単です！手順は以下の通り：
 
-1. **Inscrivez-vous pour l'Accès API**: Créez un compte gratuit pour recevoir votre clé API. Cette clé authentifiera toutes vos requêtes à nos services.
+1. **API アクセスに登録**: 無料アカウントを作成して API キーを取得します。このキーは、私たちのサービスへのすべてのリクエストを認証します。
 
-2. **Installez le SDK**: Nous proposons des SDK dans différents langages pour rendre l'intégration aussi simple qu'une promenade au parc. Voici comment installer notre SDK Python:
+2. **SDK をインストール**: 公園での散歩のように簡単に統合できるよう、様々な言語用の SDK を提供しています。Python SDK のインストール方法：
 
 ```python
 pip install pawsitively-perfect-api
 ```
 
-3. **Effectuez votre première requête API**: Voici un exemple simple de planification d'un rendez-vous de toilettage:
+3. **最初の API リクエストを実行**: グルーミング予約のシンプルな例：
 
 ```python
 import pawsitively_perfect as pp
@@ -56,10 +56,10 @@ appointment = pp.appointments.create(
 print(appointment)
 ```
 
-# 💬 Support Quand Vous en Avez Besoin
+# 💬 必要な時のサポート
 
-Vous rencontrez des difficultés? Notre équipe de support est toujours prête à vous aider! Consultez notre **Référence API** détaillée pour une documentation complète, ou [contactez notre équipe de support](mailto:support@pawsitivelyperfect.api) pour obtenir de l'aide.
+お困りですか？サポートチームがいつでもお手伝いします！詳細なドキュメントについては**API リファレンス**をご覧いただくか、[サポートチーム](mailto:support@pawsitivelyperfect.api)までお問い合わせください。
 
-Nous sommes ravis d'aider votre entreprise de toilettage à briller! 🐾
+あなたのグルーミングビジネスの輝きをサポートできることを嬉しく思います！🐾
 
-![Chien Heureux](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif)
+![幸せな犬](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif)
