@@ -1,5 +1,5 @@
 ---
-title: Pawsitively Perfect ペットグルーミング API
+title: Pawsitively Perfect Pet Grooming API
 excerpt: ペットグルーミングビジネスを管理するための究極のソリューション。すぐに始められます！
 hidden: false
 link:
