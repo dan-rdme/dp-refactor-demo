@@ -62,4 +62,4 @@ Need help? Our support team is always ready to assist! Check out our **API Refer
 
 We're excited to help your grooming business shine! 🐾
 
-![Happy Dog](https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif)
+![Happy Labradoodle](https://media.giphy.com/media/3o7btQtM310T14K2cM/giphy.gif)
