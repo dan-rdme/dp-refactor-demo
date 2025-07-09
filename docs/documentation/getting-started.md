@@ -19,11 +19,25 @@ Dan made this update - 735 on July 9
 
 <br />
 
-\<ul>
-&#x20; \<li>1
-&#x20; \<li>2
-&#x20; \<li>3
+\<ul>\
+\<li>1
+\<li>2
+\<li>3
 \</ul>
+
+<br />
+
+<br />
+
+<br />
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+</ul>
+
+<br />
 
 # Our Suite of API Services
 
