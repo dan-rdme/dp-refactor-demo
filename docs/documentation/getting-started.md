@@ -1,6 +1,8 @@
 ---
 title: Pawsitively Perfect Pet Grooming API
-excerpt: ペットグルーミングビジネスを管理するための究極のソリューション。すぐに始められます！
+excerpt: >-
+  The ultimate solution for managing your pet grooming business. Get started in
+  no time!
 hidden: false
 link:
   new_tab: false
